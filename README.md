@@ -1,7 +1,6 @@
 # Discrete Mathematics
 
 1) Expressing relations as ordered pairs and creating relations.
-
 2) Finding whether or not a given relation is: 
 * Reflexive
 * Antisymmetric
@@ -9,7 +8,6 @@
 * Partial order
 
 3) Finding the following for a given partially ordered set 
-
 * Covering relations.
 * The corresponding Hasse diagram representation.
 * Minimal and maximal elements.
@@ -32,5 +30,4 @@
 * Disjunctive normal form (Conjunctive normal form) when the given Boolean polynomial function is expressed by a table of values.
 
 8) Representing a given circuit diagram (expressed using gates) in the form of Boolean expression.
-
 9) Minimizing a given Boolean expression to find minimal expressions.
