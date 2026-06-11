@@ -9,7 +9,6 @@ i. Reflexive
 ii. Antisymmetric
 
 iii. Transitive
-
 iv. Partial order
 
 3) Finding the following for a given partially ordered set <br>
