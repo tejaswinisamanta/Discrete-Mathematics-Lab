@@ -4,12 +4,10 @@
 
 2) Finding whether or not a given relation is: 
 
-* i. Reflexive
-
-* ii. Antisymmetric
-
-* iii. Transitive
-* iv. Partial order
+* Reflexive
+* Antisymmetric
+* Transitive
+* Partial order
 
 3) Finding the following for a given partially ordered set 
 
