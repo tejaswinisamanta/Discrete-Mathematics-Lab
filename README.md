@@ -2,7 +2,8 @@
 
 1) Expressing relations as ordered pairs and creating relations.
 <br>
-2) Finding whether or not a given relation is: <br>
+2) Finding whether or not a given relation is: 
+<br>
 i. Reflexive
 ii. Antisymmetric
 iii. Transitive
